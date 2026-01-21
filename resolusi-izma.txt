@@ -3,5 +3,6 @@ RESOLUSI IZMA
 - Membuat repository simulasi simulink Drone
 - Membuat repository simulasi PID dan PID-LQR
 - Membuat repository Computer Vision YOLO
-- Membuat repository lainnya
+- Membuat repository yang sudah pernah dibuat
+- Membuat project MPC robotic sederhana
 - Merapikan repository tugas akhir terkait Swarm Drone
