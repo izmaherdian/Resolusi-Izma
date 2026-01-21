@@ -1,6 +1,7 @@
 IoT Sistem Hayati Izma
 - Membuat rangkaian hardware (sensor, driver, power supply, pompa)
 - Membuat kode arduino untuk membaca sensor
+  ^ Membaca sensor kelembaban tanah
 - Membuat HMI di Node-Red lokal
 - Membuat Node-Red dan MQTT Broker Server
 - Membuat database di InfluxDb
