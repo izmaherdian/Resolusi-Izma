@@ -1,0 +1,7 @@
+RESOLUSI IZMA
+- Membuat repository IoT Sistem Hayati
+- Membuat repository simulasi simulink Drone
+- Membuat repository simulasi PID dan PID-LQR
+- Membuat repository Computer Vision YOLO
+- Membuat repository lainnya
+- Merapikan repository tugas akhir terkait Swarm Drone
