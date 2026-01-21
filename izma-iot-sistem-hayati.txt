@@ -1,2 +1,3 @@
 IoT Sistem Hayati Izma
- - Membuat rangkaian hardware
+- Membuat rangkaian hardware (sensor, driver, power supply, pompa)
+- Membuat kode arduino untuk membaca sensor
